@@ -1,0 +1,365 @@
+[2025-04-24 07:32:14.389][Thread-4] Airplane A4: is requesting to land.
+[2025-04-24 07:32:14.389][Thread-1] Airplane A1: is requesting to land.
+[2025-04-24 07:32:14.389][Thread-2] Airplane A2: is requesting to land.
+[2025-04-24 07:32:14.396][Thread-4] Airplane A4: is using Lane 1 for landing.
+[2025-04-24 07:32:14.389][Thread-5] Airplane A5: is requesting to land.
+[2025-04-24 07:32:14.389][Thread-3] Airplane A3: is requesting to land.
+[2025-04-24 07:32:16.397][Thread-4] Airplane A4: has landed.
+[2025-04-24 07:32:16.397][Thread-3] Airplane A3: is using Lane 1 for landing.
+[2025-04-24 07:32:18.405][Thread-5] Airplane A5: is using Lane 1 for landing.
+[2025-04-24 07:32:18.405][Thread-3] Airplane A3: has landed.
+[2025-04-24 07:32:20.408][Thread-5] Airplane A5: has landed.
+[2025-04-24 07:32:20.408][Thread-2] Airplane A2: is using Lane 1 for landing.
+[2025-04-24 07:32:22.418][Thread-2] Airplane A2: has landed.
+[2025-04-24 07:32:22.418][Thread-1] Airplane A1: is using Lane 1 for landing.
+[2025-04-24 07:32:24.429][Thread-1] Airplane A1: has landed.
+[2025-04-24 07:39:42.659][Controller-Thread] Airplane A1: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:39:42.659][main] Airplane A1: assigned to Controller CTRL-1
+[2025-04-24 07:39:42.668][Controller-Thread] Airplane A1: is using Lane 1 for landing.
+[2025-04-24 07:39:43.170][main] Airplane A2: assigned to Controller CTRL-1
+[2025-04-24 07:39:43.672][main] Airplane A3: assigned to Controller CTRL-1
+[2025-04-24 07:39:44.175][main] Airplane A4: assigned to Controller CTRL-1
+[2025-04-24 07:39:44.670][Controller-Thread] Airplane A1: has landed via Controller CTRL-1
+[2025-04-24 07:39:44.671][Controller-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:39:44.676][Controller-Thread] Airplane A2: is using Lane 1 for landing.
+[2025-04-24 07:39:44.681][main] Airplane A5: assigned to Controller CTRL-1
+[2025-04-24 07:39:46.677][Controller-Thread] Airplane A2: has landed via Controller CTRL-1
+[2025-04-24 07:39:46.678][Controller-Thread] Airplane A3: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:39:46.683][Controller-Thread] Airplane A3: is using Lane 1 for landing.
+[2025-04-24 07:39:48.688][Controller-Thread] Airplane A3: has landed via Controller CTRL-1
+[2025-04-24 07:39:48.688][Controller-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:39:48.694][Controller-Thread] Airplane A4: is using Lane 1 for landing.
+[2025-04-24 07:39:50.700][Controller-Thread] Airplane A4: has landed via Controller CTRL-1
+[2025-04-24 07:39:50.701][Controller-Thread] Airplane A5: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:39:50.706][Controller-Thread] Airplane A5: is using Lane 1 for landing.
+[2025-04-24 07:39:52.711][Controller-Thread] Airplane A5: has landed via Controller CTRL-1
+[2025-04-24 07:49:29.798][main] Airplane A1: assigned to Controller CTRL-1
+[2025-04-24 07:49:29.796][Controller-Thread] Airplane A1: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:29.808][Controller-Thread] Airplane A1: is using Lane 1 for departure.
+[2025-04-24 07:49:30.309][main] Airplane A2: assigned to Controller CTRL-1
+[2025-04-24 07:49:30.810][main] Airplane A3: assigned to Controller CTRL-1
+[2025-04-24 07:49:31.313][main] Airplane A4: assigned to Controller CTRL-1
+[2025-04-24 07:49:31.816][Controller-Thread] Airplane A1: completed departure via Controller CTRL-1
+[2025-04-24 07:49:31.817][main] Airplane A5: assigned to Controller CTRL-1
+[2025-04-24 07:49:31.817][Controller-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:31.822][Controller-Thread] Airplane A2: is using Lane 1 for landing.
+[2025-04-24 07:49:32.325][main] Airplane A6: assigned to Controller CTRL-1
+[2025-04-24 07:49:32.829][main] Airplane A7: assigned to Controller CTRL-1
+[2025-04-24 07:49:33.333][main] Airplane A8: assigned to Controller CTRL-1
+[2025-04-24 07:49:33.827][Controller-Thread] Airplane A2: completed landing via Controller CTRL-1
+[2025-04-24 07:49:33.828][Controller-Thread] Airplane A3: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:33.833][Controller-Thread] Airplane A3: is using Lane 1 for landing.
+[2025-04-24 07:49:33.839][main] Airplane A9: assigned to Controller CTRL-1
+[2025-04-24 07:49:34.343][main] Airplane A10: assigned to Controller CTRL-1
+[2025-04-24 07:49:35.839][Controller-Thread] Airplane A3: completed landing via Controller CTRL-1
+[2025-04-24 07:49:35.840][Controller-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:35.841][Controller-Thread] Airplane A4: is using Lane 1 for landing.
+[2025-04-24 07:49:37.843][Controller-Thread] Airplane A4: completed landing via Controller CTRL-1
+[2025-04-24 07:49:37.844][Controller-Thread] Airplane A5: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:37.849][Controller-Thread] Airplane A5: is using Lane 1 for departure.
+[2025-04-24 07:49:39.852][Controller-Thread] Airplane A5: completed departure via Controller CTRL-1
+[2025-04-24 07:49:39.853][Controller-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:39.858][Controller-Thread] Airplane A6: is using Lane 1 for landing.
+[2025-04-24 07:49:41.864][Controller-Thread] Airplane A6: completed landing via Controller CTRL-1
+[2025-04-24 07:49:41.865][Controller-Thread] Airplane A7: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:41.870][Controller-Thread] Airplane A7: is using Lane 1 for departure.
+[2025-04-24 07:49:43.872][Controller-Thread] Airplane A7: completed departure via Controller CTRL-1
+[2025-04-24 07:49:43.873][Controller-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:43.878][Controller-Thread] Airplane A8: is using Lane 1 for landing.
+[2025-04-24 07:49:45.884][Controller-Thread] Airplane A8: completed landing via Controller CTRL-1
+[2025-04-24 07:49:45.885][Controller-Thread] Airplane A9: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:45.890][Controller-Thread] Airplane A9: is using Lane 1 for landing.
+[2025-04-24 07:49:47.894][Controller-Thread] Airplane A9: completed landing via Controller CTRL-1
+[2025-04-24 07:49:47.895][Controller-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:49:47.901][Controller-Thread] Airplane A10: is using Lane 1 for departure.
+[2025-04-24 07:49:49.903][Controller-Thread] Airplane A10: completed departure via Controller CTRL-1
+[2025-04-24 07:53:54.922][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:53:54.922][main] Airplane A1: assigned to Controller CTRL-2
+[2025-04-24 07:53:54.932][Controller-2-Thread] Airplane A1: is using Lane 1 for landing.
+[2025-04-24 07:53:55.437][main] Airplane A2: assigned to Controller CTRL-1
+[2025-04-24 07:53:55.437][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:53:55.941][main] Airplane A3: assigned to Controller CTRL-2
+[2025-04-24 07:53:56.447][main] Airplane A4: assigned to Controller CTRL-1
+[2025-04-24 07:53:56.938][Controller-1-Thread] Airplane A2: is using Lane 1 for landing.
+[2025-04-24 07:53:56.942][Controller-2-Thread] Airplane A1: completed landing via Controller CTRL-2
+[2025-04-24 07:53:56.942][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:53:56.953][main] Airplane A5: assigned to Controller CTRL-2
+[2025-04-24 07:53:57.460][main] Airplane A6: assigned to Controller CTRL-1
+[2025-04-24 07:53:57.961][main] Airplane A7: assigned to Controller CTRL-2
+[2025-04-24 07:53:58.466][main] Airplane A8: assigned to Controller CTRL-1
+[2025-04-24 07:53:58.944][Controller-1-Thread] Airplane A2: completed landing via Controller CTRL-1
+[2025-04-24 07:53:58.944][Controller-2-Thread] Airplane A3: is using Lane 1 for departure.
+[2025-04-24 07:53:58.945][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:53:58.970][main] Airplane A9: assigned to Controller CTRL-2
+[2025-04-24 07:53:59.472][main] Airplane A10: assigned to Controller CTRL-1
+[2025-04-24 07:54:00.951][Controller-2-Thread] Airplane A3: completed departure via Controller CTRL-2
+[2025-04-24 07:54:00.951][Controller-1-Thread] Airplane A4: is using Lane 1 for departure.
+[2025-04-24 07:54:00.952][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:54:02.962][Controller-1-Thread] Airplane A4: completed departure via Controller CTRL-1
+[2025-04-24 07:54:02.962][Controller-2-Thread] Airplane A5: is using Lane 1 for departure.
+[2025-04-24 07:54:02.963][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:54:04.974][Controller-2-Thread] Airplane A5: completed departure via Controller CTRL-2
+[2025-04-24 07:54:04.974][Controller-1-Thread] Airplane A6: is using Lane 1 for departure.
+[2025-04-24 07:54:04.975][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:54:06.985][Controller-1-Thread] Airplane A6: completed departure via Controller CTRL-1
+[2025-04-24 07:54:06.986][Controller-2-Thread] Airplane A7: is using Lane 1 for departure.
+[2025-04-24 07:54:06.986][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:54:08.995][Controller-2-Thread] Airplane A7: completed departure via Controller CTRL-2
+[2025-04-24 07:54:08.995][Controller-1-Thread] Airplane A8: is using Lane 1 for departure.
+[2025-04-24 07:54:08.996][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:54:11.005][Controller-1-Thread] Airplane A8: completed departure via Controller CTRL-1
+[2025-04-24 07:54:11.005][Controller-2-Thread] Airplane A9: is using Lane 1 for departure.
+[2025-04-24 07:54:11.006][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:54:13.012][Controller-2-Thread] Airplane A9: completed departure via Controller CTRL-2
+[2025-04-24 07:54:13.012][Controller-1-Thread] Airplane A10: is using Lane 1 for landing.
+[2025-04-24 07:54:15.020][Controller-1-Thread] Airplane A10: completed landing via Controller CTRL-1
+[2025-04-24 07:57:46.650][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:57:46.650][main] Airplane A1: assigned to Controller CTRL-2
+[2025-04-24 07:57:46.659][Controller-2-Thread] Airplane A1: is using Lane 1 for departure.
+[2025-04-24 07:57:47.158][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:57:47.158][main] Airplane A2: assigned to Controller CTRL-1
+[2025-04-24 07:57:47.158][Controller-1-Thread] Airplane A2: is using Lane 3 for landing.
+[2025-04-24 07:57:47.662][main] Airplane A3: assigned to Controller CTRL-2
+[2025-04-24 07:57:48.168][main] Airplane A4: assigned to Controller CTRL-1
+[2025-04-24 07:57:48.668][Controller-2-Thread] Airplane A1: has finished departure on Lane 1
+[2025-04-24 07:57:48.671][main] Airplane A5: assigned to Controller CTRL-2
+[2025-04-24 07:57:49.161][Controller-1-Thread] Airplane A2: has finished landing on Lane 3
+[2025-04-24 07:57:49.175][main] Airplane A6: assigned to Controller CTRL-1
+[2025-04-24 07:57:49.673][Controller-2-Thread] Airplane A1: completed departure via Controller CTRL-2
+[2025-04-24 07:57:49.674][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:57:49.680][main] Airplane A7: assigned to Controller CTRL-2
+[2025-04-24 07:57:50.167][Controller-2-Thread] Airplane A3: is using Lane 3 for landing.
+[2025-04-24 07:57:50.167][Controller-1-Thread] Airplane A2: completed landing via Controller CTRL-1
+[2025-04-24 07:57:50.173][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:57:50.185][main] Airplane A8: assigned to Controller CTRL-1
+[2025-04-24 07:57:50.688][main] Airplane A9: assigned to Controller CTRL-2
+[2025-04-24 07:57:51.193][main] Airplane A10: assigned to Controller CTRL-1
+[2025-04-24 07:57:52.170][Controller-2-Thread] Airplane A3: has finished landing on Lane 3
+[2025-04-24 07:57:53.172][Controller-1-Thread] Airplane A4: is using Lane 3 for landing.
+[2025-04-24 07:57:53.172][Controller-2-Thread] Airplane A3: completed landing via Controller CTRL-2
+[2025-04-24 07:57:53.178][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:57:53.179][Controller-2-Thread] Airplane A5: is using Lane 1 for departure.
+[2025-04-24 07:57:55.174][Controller-1-Thread] Airplane A4: has finished landing on Lane 3
+[2025-04-24 07:57:55.184][Controller-2-Thread] Airplane A5: has finished departure on Lane 1
+[2025-04-24 07:57:56.175][Controller-1-Thread] Airplane A4: completed landing via Controller CTRL-1
+[2025-04-24 07:57:56.176][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:57:56.181][Controller-1-Thread] Airplane A6: is using Lane 2 for departure.
+[2025-04-24 07:57:56.186][Controller-2-Thread] Airplane A5: completed departure via Controller CTRL-2
+[2025-04-24 07:57:56.187][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:57:56.187][Controller-2-Thread] Airplane A7: is using Lane 3 for landing.
+[2025-04-24 07:57:58.184][Controller-1-Thread] Airplane A6: has finished departure on Lane 2
+[2025-04-24 07:57:58.188][Controller-2-Thread] Airplane A7: has finished landing on Lane 3
+[2025-04-24 07:57:59.189][Controller-1-Thread] Airplane A6: completed departure via Controller CTRL-1
+[2025-04-24 07:57:59.190][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:57:59.192][Controller-2-Thread] Airplane A7: completed landing via Controller CTRL-2
+[2025-04-24 07:57:59.195][Controller-1-Thread] Airplane A8: is using Lane 3 for landing.
+[2025-04-24 07:57:59.196][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-04-24 07:57:59.196][Controller-2-Thread] Airplane A9: is using Lane 2 for landing.
+[2025-04-24 07:58:01.200][Controller-1-Thread] Airplane A8: has finished landing on Lane 3
+[2025-04-24 07:58:01.200][Controller-2-Thread] Airplane A9: has finished landing on Lane 2
+[2025-04-24 07:58:02.206][Controller-1-Thread] Airplane A8: completed landing via Controller CTRL-1
+[2025-04-24 07:58:02.207][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-04-24 07:58:02.211][Controller-2-Thread] Airplane A9: completed landing via Controller CTRL-2
+[2025-04-24 07:58:02.212][Controller-1-Thread] Airplane A10: is using Lane 2 for departure.
+[2025-04-24 07:58:04.214][Controller-1-Thread] Airplane A10: has finished departure on Lane 2
+[2025-04-24 07:58:05.221][Controller-1-Thread] Airplane A10: completed departure via Controller CTRL-1
+[2025-05-07 06:53:31.254][main] Airplane A1: assigned to Controller CTRL-2
+[2025-05-07 06:53:31.253][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:31.289][Controller-2-Thread] Airplane A1: is using Lane 2 for landing.
+[2025-05-07 06:53:31.796][main] Airplane A2: assigned to Controller CTRL-1
+[2025-05-07 06:53:31.797][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:31.800][Controller-1-Thread] Airplane A2: is using Lane 3 for departure.
+[2025-05-07 06:53:32.300][main] Airplane A3: assigned to Controller CTRL-2
+[2025-05-07 06:53:32.801][main] Airplane A4: assigned to Controller CTRL-1
+[2025-05-07 06:53:33.076][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:33.076][main] Airplane A1: assigned to Controller CTRL-2
+[2025-05-07 06:53:33.085][Controller-2-Thread] Airplane A1: is using Lane 3 for departure.
+[2025-05-07 06:53:33.296][Controller-2-Thread] Airplane A1: has finished landing on Lane 2
+[2025-05-07 06:53:33.303][main] Airplane A5: assigned to Controller CTRL-2
+[2025-05-07 06:53:33.586][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:33.587][main] Airplane A2: assigned to Controller CTRL-1
+[2025-05-07 06:53:33.587][Controller-1-Thread] Airplane A2: is using Lane 1 for departure.
+[2025-05-07 06:53:33.801][Controller-1-Thread] Airplane A2: has finished departure on Lane 3
+[2025-05-07 06:53:33.808][main] Airplane A6: assigned to Controller CTRL-1
+[2025-05-07 06:53:34.092][main] Airplane A3: assigned to Controller CTRL-2
+[2025-05-07 06:53:34.302][Controller-2-Thread] Airplane A1: completed landing via Controller CTRL-2
+[2025-05-07 06:53:34.302][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:34.303][Controller-2-Thread] Airplane A3: is using Lane 1 for departure.
+[2025-05-07 06:53:34.313][main] Airplane A7: assigned to Controller CTRL-2
+[2025-05-07 06:53:34.597][main] Airplane A4: assigned to Controller CTRL-1
+[2025-05-07 06:53:34.805][Controller-1-Thread] Airplane A2: completed departure via Controller CTRL-1
+[2025-05-07 06:53:34.806][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:34.817][main] Airplane A8: assigned to Controller CTRL-1
+[2025-05-07 06:53:35.090][Controller-2-Thread] Airplane A1: has finished departure on Lane 3
+[2025-05-07 06:53:35.102][main] Airplane A5: assigned to Controller CTRL-2
+[2025-05-07 06:53:35.321][main] Airplane A9: assigned to Controller CTRL-2
+[2025-05-07 06:53:35.592][Controller-1-Thread] Airplane A2: has finished departure on Lane 1
+[2025-05-07 06:53:35.604][main] Airplane A6: assigned to Controller CTRL-1
+[2025-05-07 06:53:35.825][main] Airplane A10: assigned to Controller CTRL-1
+[2025-05-07 06:53:36.097][Controller-2-Thread] Airplane A1: completed departure via Controller CTRL-2
+[2025-05-07 06:53:36.097][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:36.102][Controller-2-Thread] Airplane A3: is using Lane 3 for departure.
+[2025-05-07 06:53:36.108][main] Airplane A7: assigned to Controller CTRL-2
+[2025-05-07 06:53:36.306][Controller-2-Thread] Airplane A3: has finished departure on Lane 1
+[2025-05-07 06:53:36.596][Controller-1-Thread] Airplane A2: completed departure via Controller CTRL-1
+[2025-05-07 06:53:36.597][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:36.602][Controller-1-Thread] Airplane A4: is using Lane 2 for landing.
+[2025-05-07 06:53:36.614][main] Airplane A8: assigned to Controller CTRL-1
+[2025-05-07 06:53:37.120][main] Airplane A9: assigned to Controller CTRL-2
+[2025-05-07 06:53:37.308][Controller-1-Thread] Airplane A4: is using Lane 1 for departure.
+[2025-05-07 06:53:37.308][Controller-2-Thread] Airplane A3: completed departure via Controller CTRL-2
+[2025-05-07 06:53:37.314][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:37.625][main] Airplane A10: assigned to Controller CTRL-1
+[2025-05-07 06:53:38.103][Controller-2-Thread] Airplane A3: has finished departure on Lane 3
+[2025-05-07 06:53:38.604][Controller-1-Thread] Airplane A4: has finished landing on Lane 2
+[2025-05-07 06:53:39.106][Controller-2-Thread] Airplane A3: completed departure via Controller CTRL-2
+[2025-05-07 06:53:39.107][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:39.110][Controller-2-Thread] Airplane A5: is using Lane 1 for departure.
+[2025-05-07 06:53:39.310][Controller-1-Thread] Airplane A4: has finished departure on Lane 1
+[2025-05-07 06:53:39.605][Controller-1-Thread] Airplane A4: completed landing via Controller CTRL-1
+[2025-05-07 06:53:39.606][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:39.611][Controller-1-Thread] Airplane A6: is using Lane 2 for departure.
+[2025-05-07 06:53:40.312][Controller-1-Thread] Airplane A4: completed departure via Controller CTRL-1
+[2025-05-07 06:53:40.312][Controller-2-Thread] Airplane A5: is using Lane 1 for landing.
+[2025-05-07 06:53:40.313][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:40.315][Controller-1-Thread] Airplane A6: is using Lane 3 for departure.
+[2025-05-07 06:53:41.113][Controller-2-Thread] Airplane A5: has finished departure on Lane 1
+[2025-05-07 06:53:41.615][Controller-1-Thread] Airplane A6: has finished departure on Lane 2
+[2025-05-07 06:53:42.118][Controller-2-Thread] Airplane A5: completed departure via Controller CTRL-2
+[2025-05-07 06:53:42.119][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:42.124][Controller-2-Thread] Airplane A7: is using Lane 1 for departure.
+[2025-05-07 06:53:42.319][Controller-2-Thread] Airplane A5: has finished landing on Lane 1
+[2025-05-07 06:53:42.319][Controller-1-Thread] Airplane A6: has finished departure on Lane 3
+[2025-05-07 06:53:42.617][Controller-1-Thread] Airplane A6: completed departure via Controller CTRL-1
+[2025-05-07 06:53:42.618][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:43.325][Controller-2-Thread] Airplane A5: completed landing via Controller CTRL-2
+[2025-05-07 06:53:43.326][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:43.328][Controller-1-Thread] Airplane A6: completed departure via Controller CTRL-1
+[2025-05-07 06:53:43.331][Controller-2-Thread] Airplane A7: is using Lane 3 for landing.
+[2025-05-07 06:53:43.332][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:44.129][Controller-2-Thread] Airplane A7: has finished departure on Lane 1
+[2025-05-07 06:53:45.130][Controller-1-Thread] Airplane A8: is using Lane 1 for landing.
+[2025-05-07 06:53:45.130][Controller-2-Thread] Airplane A7: completed departure via Controller CTRL-2
+[2025-05-07 06:53:45.136][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:45.332][Controller-2-Thread] Airplane A7: has finished landing on Lane 3
+[2025-05-07 06:53:46.337][Controller-1-Thread] Airplane A8: is using Lane 3 for departure.
+[2025-05-07 06:53:46.337][Controller-2-Thread] Airplane A7: completed landing via Controller CTRL-2
+[2025-05-07 06:53:46.343][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:53:47.135][Controller-1-Thread] Airplane A8: has finished landing on Lane 1
+[2025-05-07 06:53:48.141][Controller-1-Thread] Airplane A8: completed landing via Controller CTRL-1
+[2025-05-07 06:53:48.141][Controller-2-Thread] Airplane A9: is using Lane 1 for departure.
+[2025-05-07 06:53:48.142][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:48.148][Controller-1-Thread] Airplane A10: is using Lane 2 for departure.
+[2025-05-07 06:53:48.341][Controller-1-Thread] Airplane A8: has finished departure on Lane 3
+[2025-05-07 06:53:49.345][Controller-2-Thread] Airplane A9: is using Lane 3 for landing.
+[2025-05-07 06:53:49.345][Controller-1-Thread] Airplane A8: completed departure via Controller CTRL-1
+[2025-05-07 06:53:49.351][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:53:49.352][Controller-1-Thread] Airplane A10: is using Lane 1 for departure.
+[2025-05-07 06:53:50.151][Controller-2-Thread] Airplane A9: has finished departure on Lane 1
+[2025-05-07 06:53:50.151][Controller-1-Thread] Airplane A10: has finished departure on Lane 2
+[2025-05-07 06:53:51.152][Controller-2-Thread] Airplane A9: completed departure via Controller CTRL-2
+[2025-05-07 06:53:51.162][Controller-1-Thread] Airplane A10: completed departure via Controller CTRL-1
+[2025-05-07 06:53:51.347][Controller-2-Thread] Airplane A9: has finished landing on Lane 3
+[2025-05-07 06:53:51.358][Controller-1-Thread] Airplane A10: has finished departure on Lane 1
+[2025-05-07 06:53:52.351][Controller-2-Thread] Airplane A9: completed landing via Controller CTRL-2
+[2025-05-07 06:53:52.359][Controller-1-Thread] Airplane A10: completed departure via Controller CTRL-1
+[2025-05-07 06:54:24.402][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:54:24.410][Controller-2-Thread] Airplane A1: is using Lane 2 for departure.
+[2025-05-07 06:54:24.401][main] Airplane A1: assigned to Controller CTRL-2
+[2025-05-07 06:54:24.914][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:54:24.915][Controller-1-Thread] Airplane A2: is using Lane 1 for landing.
+[2025-05-07 06:54:24.914][main] Airplane A2: assigned to Controller CTRL-1
+[2025-05-07 06:54:25.420][main] Airplane A3: assigned to Controller CTRL-2
+[2025-05-07 06:54:25.925][main] Airplane A4: assigned to Controller CTRL-1
+[2025-05-07 06:54:26.418][Controller-2-Thread] Airplane A1: has finished departure on Lane 2
+[2025-05-07 06:54:26.430][main] Airplane A5: assigned to Controller CTRL-2
+[2025-05-07 06:54:26.917][Controller-1-Thread] Airplane A2: has finished landing on Lane 1
+[2025-05-07 06:54:26.935][main] Airplane A6: assigned to Controller CTRL-1
+[2025-05-07 06:54:27.423][Controller-2-Thread] Airplane A1: completed departure via Controller CTRL-2
+[2025-05-07 06:54:27.424][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:54:27.437][main] Airplane A7: assigned to Controller CTRL-2
+[2025-05-07 06:54:27.920][Controller-1-Thread] Airplane A2: completed landing via Controller CTRL-1
+[2025-05-07 06:54:27.920][Controller-2-Thread] Airplane A3: is using Lane 1 for departure.
+[2025-05-07 06:54:27.921][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:54:27.927][Controller-1-Thread] Airplane A4: is using Lane 3 for departure.
+[2025-05-07 06:54:27.940][main] Airplane A8: assigned to Controller CTRL-1
+[2025-05-07 06:54:28.446][main] Airplane A9: assigned to Controller CTRL-2
+[2025-05-07 06:54:28.950][main] Airplane A10: assigned to Controller CTRL-1
+[2025-05-07 06:54:29.928][Controller-2-Thread] Airplane A3: has finished departure on Lane 1
+[2025-05-07 06:54:29.928][Controller-1-Thread] Airplane A4: has finished departure on Lane 3
+[2025-05-07 06:54:30.932][Controller-2-Thread] Airplane A3: completed departure via Controller CTRL-2
+[2025-05-07 06:54:30.933][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:54:30.938][Controller-1-Thread] Airplane A4: completed departure via Controller CTRL-1
+[2025-05-07 06:54:30.938][Controller-2-Thread] Airplane A5: is using Lane 2 for landing.
+[2025-05-07 06:54:30.939][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:54:32.939][Controller-2-Thread] Airplane A5: has finished landing on Lane 2
+[2025-05-07 06:54:33.944][Controller-2-Thread] Airplane A5: completed landing via Controller CTRL-2
+[2025-05-07 06:54:33.944][Controller-1-Thread] Airplane A6: is using Lane 2 for landing.
+[2025-05-07 06:54:33.945][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:54:35.955][Controller-1-Thread] Airplane A6: has finished landing on Lane 2
+[2025-05-07 06:54:36.957][Controller-1-Thread] Airplane A6: completed landing via Controller CTRL-1
+[2025-05-07 06:54:36.957][Controller-2-Thread] Airplane A7: is using Lane 2 for landing.
+[2025-05-07 06:54:36.958][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:54:36.964][Controller-1-Thread] Airplane A8: is using Lane 1 for landing.
+[2025-05-07 06:54:38.965][Controller-2-Thread] Airplane A7: has finished landing on Lane 2
+[2025-05-07 06:54:38.965][Controller-1-Thread] Airplane A8: has finished landing on Lane 1
+[2025-05-07 06:54:39.970][Controller-2-Thread] Airplane A7: completed landing via Controller CTRL-2
+[2025-05-07 06:54:39.971][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 06:54:39.975][Controller-1-Thread] Airplane A8: completed landing via Controller CTRL-1
+[2025-05-07 06:54:39.976][Controller-2-Thread] Airplane A9: is using Lane 1 for departure.
+[2025-05-07 06:54:39.977][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 06:54:39.977][Controller-1-Thread] Airplane A10: is using Lane 2 for departure.
+[2025-05-07 06:54:41.977][Controller-2-Thread] Airplane A9: has finished departure on Lane 1
+[2025-05-07 06:54:41.978][Controller-1-Thread] Airplane A10: has finished departure on Lane 2
+[2025-05-07 06:54:42.980][Controller-2-Thread] Airplane A9: completed departure via Controller CTRL-2
+[2025-05-07 06:54:42.986][Controller-1-Thread] Airplane A10: completed departure via Controller CTRL-1
+[2025-05-07 10:59:18.388][Controller-2-Thread] Airplane A1: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 10:59:18.399][Controller-2-Thread] Airplane A1: is using Lane 1 for landing.
+[2025-05-07 10:59:18.427][main] Airplane A1: assigned to Controller CTRL-2
+[2025-05-07 10:59:18.929][Controller-1-Thread] Airplane A2: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 10:59:18.929][main] Airplane A2: assigned to Controller CTRL-1
+[2025-05-07 10:59:18.929][Controller-1-Thread] Airplane A2: is using Lane 3 for departure.
+[2025-05-07 10:59:19.435][main] Airplane A3: assigned to Controller CTRL-2
+[2025-05-07 10:59:19.940][main] Airplane A4: assigned to Controller CTRL-1
+[2025-05-07 10:59:20.408][Controller-2-Thread] Airplane A1: has finished landing on Lane 1
+[2025-05-07 10:59:20.446][main] Airplane A5: assigned to Controller CTRL-2
+[2025-05-07 10:59:20.935][Controller-1-Thread] Airplane A2: has finished departure on Lane 3
+[2025-05-07 10:59:20.950][main] Airplane A6: assigned to Controller CTRL-1
+[2025-05-07 10:59:21.418][Controller-2-Thread] Airplane A1: completed landing via Controller CTRL-2
+[2025-05-07 10:59:21.418][Controller-2-Thread] Airplane A3: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 10:59:21.451][main] Airplane A7: assigned to Controller CTRL-2
+[2025-05-07 10:59:21.942][Controller-1-Thread] Airplane A2: completed departure via Controller CTRL-1
+[2025-05-07 10:59:21.942][Controller-2-Thread] Airplane A3: is using Lane 3 for departure.
+[2025-05-07 10:59:21.943][Controller-1-Thread] Airplane A4: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 10:59:21.949][Controller-1-Thread] Airplane A4: is using Lane 2 for landing.
+[2025-05-07 10:59:21.953][main] Airplane A8: assigned to Controller CTRL-1
+[2025-05-07 10:59:22.455][main] Airplane A9: assigned to Controller CTRL-2
+[2025-05-07 10:59:22.957][main] Airplane A10: assigned to Controller CTRL-1
+[2025-05-07 10:59:23.948][Controller-2-Thread] Airplane A3: has finished departure on Lane 3
+[2025-05-07 10:59:23.952][Controller-1-Thread] Airplane A4: has finished landing on Lane 2
+[2025-05-07 10:59:24.954][Controller-2-Thread] Airplane A3: completed departure via Controller CTRL-2
+[2025-05-07 10:59:24.955][Controller-2-Thread] Airplane A5: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 10:59:24.959][Controller-1-Thread] Airplane A4: completed landing via Controller CTRL-1
+[2025-05-07 10:59:24.960][Controller-2-Thread] Airplane A5: is using Lane 3 for landing.
+[2025-05-07 10:59:24.961][Controller-1-Thread] Airplane A6: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 10:59:26.961][Controller-2-Thread] Airplane A5: has finished landing on Lane 3
+[2025-05-07 10:59:27.965][Controller-2-Thread] Airplane A5: completed landing via Controller CTRL-2
+[2025-05-07 10:59:27.965][Controller-1-Thread] Airplane A6: is using Lane 3 for departure.
+[2025-05-07 10:59:27.966][Controller-2-Thread] Airplane A7: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 10:59:27.971][Controller-2-Thread] Airplane A7: is using Lane 1 for departure.
+[2025-05-07 10:59:29.975][Controller-1-Thread] Airplane A6: has finished departure on Lane 3
+[2025-05-07 10:59:29.975][Controller-2-Thread] Airplane A7: has finished departure on Lane 1
+[2025-05-07 10:59:30.979][Controller-1-Thread] Airplane A6: completed departure via Controller CTRL-1
+[2025-05-07 10:59:30.980][Controller-1-Thread] Airplane A8: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 10:59:30.985][Controller-2-Thread] Airplane A7: completed departure via Controller CTRL-2
+[2025-05-07 10:59:30.985][Controller-1-Thread] Airplane A8: is using Lane 2 for landing.
+[2025-05-07 10:59:30.986][Controller-2-Thread] Airplane A9: cleared by Controller CTRL-2 for landing check.
+[2025-05-07 10:59:32.987][Controller-1-Thread] Airplane A8: has finished landing on Lane 2
+[2025-05-07 10:59:33.994][Controller-1-Thread] Airplane A8: completed landing via Controller CTRL-1
+[2025-05-07 10:59:33.994][Controller-2-Thread] Airplane A9: is using Lane 2 for landing.
+[2025-05-07 10:59:33.995][Controller-1-Thread] Airplane A10: cleared by Controller CTRL-1 for landing check.
+[2025-05-07 10:59:34.001][Controller-1-Thread] Airplane A10: is using Lane 1 for departure.
+[2025-05-07 10:59:36.003][Controller-2-Thread] Airplane A9: has finished landing on Lane 2
+[2025-05-07 10:59:36.006][Controller-1-Thread] Airplane A10: has finished departure on Lane 1
+[2025-05-07 10:59:37.009][Controller-2-Thread] Airplane A9: completed landing via Controller CTRL-2
+[2025-05-07 10:59:37.014][Controller-1-Thread] Airplane A10: completed departure via Controller CTRL-1
